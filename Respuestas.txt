@@ -1,0 +1,40 @@
+Santiago Naranjo Melo
+
+------PARTE 1-------
+
+punto 10
+
+push.¿Las dos parejas lo pudieron hacer?,¿Qué quedó al final en la versión oficial?
+
+RTA/ Si los dos hicimos push, sin embargo, mi compañero fue el unico que registrar el cambio (se realizo al 
+mismo tiempo), se presento el error que se esperaba al final se solcuion cuando el otro integrante(yo) 
+actualizo los nuevos cambios y ahi si se volvieron a agregar los nuevos cambios. 
+
+--------PARTE 2--------
+
+punto 3 
+
+Investigue un poco acerca de Markdown y de cómo realizar un archivo README.
+
+*El Markdown es una forma que nos permite agregar formatos a textos sin formato.
+
+Como hacer un readme:
+		- Se realiza con la finalidad de presentar información sobre un proyecto en este caso un repositorio.
+		- Estan hechos a base de Markdown
+		- Cosas que debrian tener un README:
+			*Título e imagen de portada;
+			*Insignias;
+			*Índice;
+			*Descripción del Proyecto;
+			*Estado del proyecto;
+			*Demostración de funciones y aplicaciones;
+			*Acceso al Proyecto;
+			*Tecnologías utilizadas;
+			*Personas Contribuyentes;
+			*Personas Desarrolladoras del Proyecto;
+			*Licencia.
+			
+BIBLIOGRAFIA
+
+https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github
+https://www.silocreativo.com/que-es-markdown-por-que-deberias-empezar-a-usarlo/
